@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"4bd03a14c7dda778","type":"file","file":"FlatIron/NET/NET300/Lab-LAMP Setup.md","x":-3360,"y":-1720,"width":400,"height":686},
+		{"id":"6db3e65b58a7ad5b","type":"file","file":"FlatIron/NET/NET300/Lab-HTTP Proxies.md","x":-3360,"y":-905,"width":400,"height":795},
+		{"id":"e58d751cdd051ba3","type":"file","file":"FlatIron/NET/NET300/Lab-Writing-HTML.md","x":-3360,"y":20,"width":400,"height":780},
+		{"id":"a02ad6b7fd1b172c","type":"file","file":"FlatIron/NET/NET300/Lab-Application Expansion.md","x":-2760,"y":10,"width":400,"height":790},
+		{"id":"eb3601035825919a","type":"file","file":"FlatIron/NET/NET300/NET300 M2/Lab-Apache Configuration.md","x":-2760,"y":-1034,"width":400,"height":777},
+		{"id":"c8fe5f6f744452e4","type":"file","file":"FlatIron/NET/NET300/NET300 M2/Lab-JavaScript.md","x":-2760,"y":-1920,"width":400,"height":668},
+		{"id":"61aaa00f21fc8102","type":"file","file":"FlatIron/NET/NET300/NET300 M2/Lab-PHP DB.md","x":-2760,"y":-2840,"width":400,"height":686},
+		{"id":"e891f3e26287692e","type":"file","file":"FlatIron/NET/NET300/NET300 M3/Lab-Authorization.md","x":-3440,"y":-2840,"width":400,"height":695},
+		{"id":"11e77cf0660dcedf","type":"file","file":"Excalidraw/project portfolio.md","x":-2170,"y":-2840,"width":1220,"height":770},
+		{"id":"ddf1de305c49c61e","type":"file","file":"FlatIron/NET/NET300/NET300 M2/Lab-PHP DB Reference.md","x":-240,"y":-2840,"width":800,"height":1100},
+		{"id":"3cb492962c431148","type":"text","text":"# TO-DO\n- [x] Forgot Password??? (Maybe save 4 later)\n- [x] Settings\n  - Change username/pass (non-admin page) Make password submit function same as username and email\n  - Admin settings (user list, archive/publish project? \n\n\nwebsite finished for most part (just clean up code)\n- [ ] Finish Power Point\n- [ ] Make new password for admin acct (change in mysql)","x":-2140,"y":-2000,"width":680,"height":680}
+	],
+	"edges":[
+		{"id":"cef7ab7588861d78","fromNode":"4bd03a14c7dda778","fromSide":"bottom","toNode":"6db3e65b58a7ad5b","toSide":"top"},
+		{"id":"823cb080870ea00d","fromNode":"6db3e65b58a7ad5b","fromSide":"bottom","toNode":"e58d751cdd051ba3","toSide":"top"},
+		{"id":"2cc9930fb61fed7f","fromNode":"e58d751cdd051ba3","fromSide":"right","toNode":"a02ad6b7fd1b172c","toSide":"left"},
+		{"id":"6231d7a18cecc222","fromNode":"a02ad6b7fd1b172c","fromSide":"top","toNode":"eb3601035825919a","toSide":"bottom"},
+		{"id":"f9cb120c90c410ad","fromNode":"eb3601035825919a","fromSide":"top","toNode":"c8fe5f6f744452e4","toSide":"bottom"},
+		{"id":"09b15655f6828360","fromNode":"c8fe5f6f744452e4","fromSide":"top","toNode":"61aaa00f21fc8102","toSide":"bottom"},
+		{"id":"bfaaba5300abfcac","fromNode":"61aaa00f21fc8102","fromSide":"left","toNode":"e891f3e26287692e","toSide":"right"}
+	]
+}
